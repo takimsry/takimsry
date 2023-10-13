@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm <a href="https://takimsurya.vercel.app/" target="blank">Takim</a>
 
-Passionate Full Stack Developer with a strong foundation in Front-End and Back-End Development, as well as a keen eye for UI/UX Design. Eager about innovation, exploring new technologies, and delivering exceptional web applications.
+I'm an Indonesian guy who is passionate about Front-End Development, Back-End Development, and UI/UX Design.
 
 <a href="https://github.com/m-mustakim-surya/m-mustakim-surya">
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m-mustakim-surya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="m-mustakim-surya's GitHub Stats" />
