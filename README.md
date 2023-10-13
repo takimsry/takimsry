@@ -1,8 +1,8 @@
 [![Header](https://github.com/m-mustakim-surya/m-mustakim-surya/blob/main/header-takim.png)](https://takimsurya.vercel.app)
 
-# Hello there! <img src="https://github.com/m-mustakim-surya/m-mustakim-surya/blob/main/wave.gif" width="30px" height="30px" />
+<h1 align="center">Hi 👋, I'm <a href="https://takimsurya.vercel.app/" target="blank">Takim</a></h1>
 
-I'm an Indonesian guy who is passionate about Front-End Development, Back-End Development, and UI/UX Design.
+<h3 align="center">Passionate Full Stack Developer with a strong foundation in Front-End and Back-End Development, as well as a keen eye for UI/UX Design.</h3>
 
 <a href="https://github.com/m-mustakim-surya/m-mustakim-surya">
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m-mustakim-surya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="m-mustakim-surya's GitHub Stats" />
